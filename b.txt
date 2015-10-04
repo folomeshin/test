@@ -1,9 +1,4 @@
-<<<<<<< HEAD
 line 1 (2)
-line 1
-=======
-line 1
 line 2 (2)
->>>>>>> 25fea6cf5643047baa7c81ca697d5b54870bfafc
 line 3
 
